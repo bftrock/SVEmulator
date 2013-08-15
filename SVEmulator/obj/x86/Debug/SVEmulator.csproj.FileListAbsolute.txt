@@ -1,0 +1,20 @@
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\obj\x86\Debug\SVEmulator.Form1.resources
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\SVEmulator.exe
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\SVEmulator.pdb
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\Npgsql.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\Mono.Security.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\Npgsql.pdb
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\Npgsql.xml
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\obj\x86\Debug\SVEmulator.exe
+C:\Users\Brendan\documents\visual studio 2010\Projects\SVEmulator\SVEmulator\obj\x86\Debug\SVEmulator.pdb
+C:\Users\Brendan\Documents\Visual Studio 2010\Projects\SVEmulator\SVEmulator\obj\x86\Debug\SVEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\Documents\Visual Studio 2010\Projects\SVEmulator\SVEmulator\obj\x86\Debug\SVEmulator.csproj.GenerateResource.Cache
+C:\Users\Brendan\Documents\Innovus\Controls\HMI\SVEmulator\obj\x86\Debug\SVEmulator.exe
+C:\Users\Brendan\Documents\Innovus\Controls\HMI\SVEmulator\obj\x86\Debug\SVEmulator.pdb
